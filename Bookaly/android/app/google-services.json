@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915177626190",
+    "project_id": "bookaly-10a81",
+    "storage_bucket": "bookaly-10a81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915177626190:android:a79c7f087d9d3774afc11f",
+        "android_client_info": {
+          "package_name": "com.bookaly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9y0S1JdjgiAFgKY2qpQ2Es46RLtzQvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
